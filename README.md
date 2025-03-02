@@ -1,6 +1,6 @@
 # Console Poker Game
 
-A feature-rich, visually appealing console-based Texas Hold'em poker game with intelligent bot opponents.
+This project is a console-based Texas Hold'em poker game that delivers an immersive poker experience. It features a visually engaging text interface, a robust set of gameplay mechanics, and intelligent bot opponents that have different strategies.
 
 ## Features
 
